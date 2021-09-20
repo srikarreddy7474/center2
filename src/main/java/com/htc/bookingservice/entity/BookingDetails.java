@@ -77,7 +77,7 @@ public class BookingDetails {
 	}
 	@Override
 	public String toString() {
-		return "BookingDetails [bookingId=" + bookingId + ", centreid=" + centreid + ", pincode=" + pincode + "]";
+		return "BookingDetail [bookingId=" + bookingId + ", centreid=" + centreid + ", pincode=" + pincode + "]";
 	}
 	
 
